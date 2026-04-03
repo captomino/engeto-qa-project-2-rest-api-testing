@@ -1,4 +1,4 @@
-# REST API Testing
+# Testování REST API
 ![Project Status](https://img.shields.io/badge/status-⏳_Awaiting%20Review-orange)
 
 
